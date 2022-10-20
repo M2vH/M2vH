@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+<img width="30%" src="./hero-illustration-drone.gif"/>
+
+![robot](./hero-illustration-bot.svg)
+
+
 <!--
 **M2vH/M2vH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
