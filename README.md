@@ -1,9 +1,16 @@
 ### Hi there 👋
 
 
-<img width="30%" src="./hero-illustration-drone.gif"/>
+<img width="20%" height="50" src="./.assets/hero-illustration-empty.svg"/>
+<img width="120" src="./.assets/hero-illustration-drone.gif"/>
 
-![robot](./hero-illustration-bot.svg)
+<div align="right">
+<!-- 
+ -->
+<img width="100%" height="200" src="./.assets/hero-illustration-empty.svg"/>
+<img width="400" src="./.assets/hero-illustration-bot.svg"/>
+</div>
+
 
 
 <!--
